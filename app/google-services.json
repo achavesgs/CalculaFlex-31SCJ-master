@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "188910343185",
+    "firebase_url": "https://calculaflex-31scj-master.firebaseio.com",
+    "project_id": "calculaflex-31scj-master",
+    "storage_bucket": "calculaflex-31scj-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188910343185:android:46b86db2810ebf22",
+        "android_client_info": {
+          "package_name": "br.com.heiderlopes.calculaflex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188910343185-j138mrp9sba9ele0cc0lj67a0eofuup9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD64tRue6sHhXKlEx5TWd30tWPCGdmfdVA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
